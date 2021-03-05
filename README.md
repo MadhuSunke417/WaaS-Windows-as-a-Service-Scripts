@@ -1,2 +1,2 @@
 # WaaSScripts
-This script helps to install inf files using system file which is pnputil.exe.
+This place is for all WaaS scripts that i used in my 20H2 feature update Process.
